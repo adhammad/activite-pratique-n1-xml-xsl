@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE meteo SYSTEM "meteo.dtd">
+<meteo>
+    <mesure date="2025-10-10">
+        <ville nom="Casablanca" temperature="22"/>
+        <ville nom="tanger" temperature="25"/>
+        <ville nom="Settat" temperature="29"/>
+        <ville nom="Taza" temperature="32"/>
+        <ville nom="Dakhla" temperature="26"/>
+    </mesure>
+    <mesure date="2025-10-11">
+        <ville nom="Casablanca" temperature="23"/>
+        <ville nom="tanger" temperature="26"/>
+        <ville nom="Settat" temperature="27"/>
+        <ville nom="Taza" temperature="35"/>
+        <ville nom="Dakhla" temperature="30"/>
+    </mesure>
+</meteo>
