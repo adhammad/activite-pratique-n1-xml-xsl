@@ -7,6 +7,7 @@
         <ville nom="Settat" temperature="29"/>
         <ville nom="Taza" temperature="32"/>
         <ville nom="Dakhla" temperature="26"/>
+        <ville nom="Laayoune" temperature="22"/>
     </mesure> 
     <mesure date="2025-10-11">
         <ville nom="Casablanca" temperature="23"/>
@@ -14,5 +15,6 @@
         <ville nom="Settat" temperature="27"/>
         <ville nom="Taza" temperature="35"/>
         <ville nom="Dakhla" temperature="30"/>
+        <ville nom="Laayoune" temperature="28"/>
     </mesure>
 </meteo>  
